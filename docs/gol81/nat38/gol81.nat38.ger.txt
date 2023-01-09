@@ -1,4 +1,4 @@
-In den lezten Jahren sind in den größeren amerikanischen Bibliotheken neben den auch bei uns schon eingeführten Photokopie-Apparaten auch  S c h m a l f i l m - A u f n a h m e g e r ä t e  zur Aufstellung gelangt.
+In den letzten Jahren sind in den größeren amerikanischen Bibliotheken neben den auch bei uns schon eingeführten Photokopie-Apparaten auch  S c h m a l f i l m - A u f n a h m e g e r ä t e  zur Aufstellung gelangt.
 Für verhältnismäßig geringe Unkosten kann man sich von beliebigen Druckwerken Kopien auf 35-Millimeter-Schmalfilm anfertigen lassen.
 Die Besteller – vorwiegend wissenschaftliche Institute und Forschungslaboratorien der Industrie, aber auch bereits viele Privatpersonen – brauchen dann nur die Schmalfilm-Aufnahmen in geeigneter Weise auf eine Leinwand zu projizieren, um die aufgenommene Druckseite bequem lessen zu können.
 In den meisten Fällen ist die Anfertigung von beispielsweise 800 Schmalfilmaufnahmen billiger als die Anschaffung eines 800 Seiten starken wissenschaftlichen Werkes.
@@ -8,7 +8,7 @@ Es ist ja bekannt, dass man zur Entzifferung schwer lesbarer Schriften häufig d
 So ist in manchen Fällen dem Bibliotheksbenutzer mit den Schmalfilm-Aufnahmen besser gedient als mit dem Original.
 Bei Dissertationen und ähnlichen Schriftwerken, die nur in wenigen Exemplaren vorhanden zu sein brauchen, ist man dazu übergegangen, auf die Drucklegung völlig zu verzichten und statt dessen Aufnahmen vom Schreibmaschinenmanuskript herzustellen.      
 
-Für den Projektion benutzt man  b e s o n d e r s  k o n s t r u i e r t e  T i s c h e ,  auf deren mit einer Projektionsfläche versehene Platte von unten die Filme projiziert werden.
+Für die Projektion benutzt man  b e s o n d e r s  k o n s t r u i e r t e  T i s c h e ,  auf deren mit einer Projektionsfläche versehene Platte von unten die Filme projiziert werden.
 Derartige Tische finden auch bereits in den Konstruktionsbüros der großen amerikanischen Industriefirmen Verwendung, wo Konstruktionspläne und dergleichen auf Schmalfilmen im Archiv aufbewahrt werden.
 Für die Industrie spielt die Platzersparnis eine besonders große Rolle.
 Man kann beispielsweise einen Konstruktionsplan, der eine Grösse von 75 mal 100 Zentimeter einnimmt, bequem auf eine Schmalfilm-Aufnahme bringen und dann auf dem Projektionstische in der ursprünglichen Grösse wieder erscheinen lassen.
@@ -24,7 +24,7 @@ Man lächelte damals über diese Ankündigung.
 Als der Professor seinen Kollegen aber in seiner Bastlerwerkstatt das erste Modell des Projektionstisches vorgeführt hatte, wurde man doch nachdenklich.
 Immerhin hielt man die Prophezeiung des Professors noch für maßlos übertrieben.
 Wenn sich wirklich jede Seite eines Buches auf einer Schmalfilm-Aufnahme unterbringen ließ – für wieviel solche Aufnahmen konnte dann bestenfalls im Inneren eines Tisches Platz sein?
-Die Besucher begannen zu rechnen, aber mit einem triumpierenden Lächeln unterbrach sie der Professor.
+Die Besucher begannen zu rechnen, aber mit einem triumphierenden Lächeln unterbrach sie der Professor.
 Er führte seine Kollegen zu einem Mikroskop und bat sie, durch das Instrument zu sehen.
 Im Blickfeld zeigte sich eine komplette Seite einer Veröffentlichung des Professors in der „Zeitschrift für Technische Physik“.
 Jeder einzelne Buchstabe war klar erkennbar.
@@ -33,9 +33,9 @@ Die Kollegen des Professors – alle erfahrene Phototechniker – wollten es nic
 Nach all ihren Erfahrungen mußte bei einer mikroskopischen Verkleinerung die Körnigkeit des photographischen Materials jede Einzelheit verwischen und unerkennbar machen.
 In dem mikroskopischen Bild war aber keine Spur der photographischen Körner zu erkennen.
 Man bestürmte den Professor mit Fragen.
-Der kleine Professor mit dem liebenswürdigen, zerknitterten Gesicht kaute am Pappmundstück seiner Zigarette und kostete seinen Triumph mit vollen Zügen. „Sehen Sie nochmal durch das Mikroskop“, bat er, verschmitzt lächelnd seine Kollegen, „und lesen Sie meine Veröfentlichung. Dann kennen Sie mein ganzes Geheimnis.”
+Der kleine Professor mit dem liebenswürdigen, zerknitterten Gesicht kaute am Pappmundstück seiner Zigarette und kostete seinen Triumph mit vollen Zügen. „Sehen Sie nochmal durch das Mikroskop“, bat er, verschmitzt lächelnd seine Kollegen, „und lesen Sie meine Veröffentlichung. Dann kennen Sie mein ganzes Geheimnis.”
 Die Veröffentlichung behandelte die Eigenschaften von  K o l l o d i u m - S c h i c h t e n  und wies nach, daß diese Schichten praktisch kornfrei sind und daher zu beliebigen Verkleinerungen verwandt werden können.
-Die nur in nassem Zustande verwendbaren Kollodium-Schichten sind den Photographen wohlbekannt, sie wurden vor der Einführung der Gelatine-Trockenplatten allgemein verwandt, sind dann aber unbeachtet geblieben, bis Professor Goldberg auf die neue Verwendungsmöglichkei aufmerksam machte.
+Die nur in nassem Zustande verwendbaren Kollodium-Schichten sind den Photographen wohlbekannt, sie wurden vor der Einführung der Gelatine-Trockenplatten allgemein verwandt, sind dann aber unbeachtet geblieben, bis Professor Goldberg auf die neue Verwendungsmöglichkeit aufmerksam machte.
 
 
 Neue optische Apparate sind für die Herstellung der Verkleinerung nicht erforderlich, da dazu lediglich ein umgekehrtes Mikroskop notwendig ist.
@@ -51,12 +51,12 @@ Die Herren mußten zugeben, daß in dieser Hinsicht dem Projekt des Professors k
 Skeptischer blieb man allerdings hinsichtlich der automatischen Einstellung der gewünschten Stelle des Filmes im Projektionstisch.
 Aber auch in diesem Punkte war der Professor fest von der Durchführbarkeit seines Projektes überzeugt.
 Durch ein Lochkartensystem in Verbindung mit Photozellen mußte seiner Meinung nach auch dieses Problem lösbar sein.
-Er führte seinen Besuchern ein kleines Modell vor, daß im Prinzip völlig dem jetzt bei den amerikanischen Projektionstischen verwandten entspricht.
+Er führte seinen Besuchern ein kleines Modell vor, das im Prinzip völlig dem jetzt bei den amerikanischen Projektionstischen verwandten entspricht.
 
 „Daß mein Traum einmal verwirklicht werden wird, daran zweifle ich nicht“, erklärte der Professor, „ob ich selbst es aber erleben werde, davon allerdings bin ich nicht überzeugt.“
 
 Als Professor Goldberg vor drei Jahren anläßlich eines Pariser Kongresses nach den Fortschritten seines Projektes gefragt wurde, war er nicht sehr zuversichtlich.
-„Ich habe gehört, daß meine mikroskopischen VerkleinerungenSpionagedienst verschiedener Mächte Eingang gefunden haben“, erklärte er.
+„Ich habe gehört, daß meine mikroskopischen Verkleinerungen im Spionagedienst verschiedener Mächte Eingang gefunden haben“, erklärte er.
 „Das ist aber schließlich nichts Neues.
 Die in Paris belagerten Franzosen haben ja schon 1871 mit Brieftauben photographische Verkleinerungen zur Nachrichtenübermittlung benutzt.
 Neu ist, daß sich die Kriminalschriftsteller auf meine Idee gestürzt haben. Das ist aber auch alles, was ich Ihnen an Fortschritten zu berichten habe.“
